@@ -20,4 +20,4 @@ Use of OOP in a project:
    order any of the desktop computer depending on the available efficiency
    and prices of each product. Let's take a look at the project below:!
    
-[Uploading hw12_oop_computer.jpg…]()
+![hw12_oop_computer](https://user-images.githubusercontent.com/72845464/125598419-743de5de-a9c9-4420-b482-e3235891018e.jpg)
